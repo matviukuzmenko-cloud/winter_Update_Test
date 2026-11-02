@@ -1,0 +1,5 @@
+# Flora-Anotomy uses one public URL; in-app sections are hash-based fragments.
+User-agent: *
+Allow: /
+
+Sitemap: https://matviukuzmenko-cloud.github.io/flora-anotomy/sitemap.xml
